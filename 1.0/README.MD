@@ -45,3 +45,6 @@ python DejaClick.py --play 5
 
 ## 3. Настройка задержки
 Вы можете изменить время ожидания перед стартом с помощью **`--delay`**:
+```bash
+python DejaClick.py --record --delay 10
+```
