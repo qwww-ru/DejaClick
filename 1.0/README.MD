@@ -30,3 +30,4 @@ pip install pynput
 
 ```bash
 python DejaClick.py --record
+```
